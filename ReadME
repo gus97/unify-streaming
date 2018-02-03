@@ -1,0 +1,4 @@
+alter table unify_process_log modify (memory varchar(20))
+
+update unify_process_log  set memory =null
+where memory is not null

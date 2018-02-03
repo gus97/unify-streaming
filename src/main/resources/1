@@ -1,0 +1,8 @@
+
+
+shanpao ff14af92-6b26-4e9d-afa1-56e557c91a1e 22ebbf65-f8ea-4126-b13e-bc3b4c27fb9c
+ spark://172.18.111.3:7078 hdfs://hadoop 10004 sp_ugc_new.jar smm 1 1024 10 null
+
+ hdfs://hadoop/tmp/sjwj/ jar包 包含自身
+
+ spark jars下全部
